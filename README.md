@@ -2,7 +2,8 @@
 Kelas: 3IA07 
 
 ANGGOTA KELOMPOK:
-Fadillah Adam Yasir (50420435) 
+
+Fadillah Adam Yasir (50420435)  
 Andre Putra Samudera (51420320) 
 
 
